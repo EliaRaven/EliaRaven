@@ -1,12 +1,13 @@
+<h2>Eliraven's Github Stats<h2/>
 <a href="https://github.com/eliaraven/">
   <img align="center" src="https://github-readme-stats-nine-roan-30.vercel.app/api?username=eliaraven&theme=github_dark&show_icons=true"/>
 </a>
-<br>
+<br><br>
 <a href="https://github.com/eliaraven/">
   <img align="center" src="https://github-readme-stats-nine-roan-30.vercel.app/api/top-langs/?username=eliaraven&layout=compact&theme=github_dark&show_icons=true&exclude_repo=github-readme-stats" />
 </a>
 <br>
-<br><b>Spotify</b><br>
+<h2>Spotify<h2/>
 <a href="https://eliraven.de/spotify">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=yvaxii87nrd5cqcukfe7a5s9l&cover_image=true&theme=natemoo-re&bar_color=3572a5&bar_color_cover=false">
 </a>
