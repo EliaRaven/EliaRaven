@@ -8,7 +8,7 @@
 <br>
 <br><b>Spotify</b><br>
 <a href="https://eliraven.de/spotify">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=yvaxii87nrd5cqcukfe7a5s9l&cover_image=true&theme=natemoo-re&bar_color=4078c0&bar_color_cover=true">
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=yvaxii87nrd5cqcukfe7a5s9l&cover_image=true&theme=natemoo-re&bar_color=3572a5&bar_color_cover=false">
 </a>
 
 <!--
