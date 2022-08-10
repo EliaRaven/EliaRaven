@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![ElIRavens's GitHub stats](github-readme-stats-nine-roan-30.vercel.app/api?username=eliaraven&theme=github_dark&show_icons=true)](https://github.com/EliaRaven)
+[![Top Langs](github-readme-stats-nine-roan-30.vercel.app/api/top-langs/?username=eliaraven&layout=compact&theme=github_dark&show_icons=true)](https://github.com/EliaRaven)
 <!--
 **EliaRaven/EliaRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
