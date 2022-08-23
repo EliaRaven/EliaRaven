@@ -1,3 +1,10 @@
+<h2>Contact<h2/>
+<a href="mailto:contact@eliraven.de">
+  <img src="https://eliraven.de/wp-content/uploads/2022/02/eliraven_logo_1zu1_1000x1000_only_logo.png" width="40"/>
+</a>
+<a href="https://discordapp.com/users/435836395249205248" target="_blank">
+  <img src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" width="40"/>
+</a>
 <h2>Eliraven's Github Stats<h2/>
 <a href="https://github.com/eliaraven/">
   <img align="center" src="https://github-readme-stats-nine-roan-30.vercel.app/api?username=eliaraven&theme=github_dark&show_icons=true"/>
